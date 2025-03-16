@@ -1,4 +1,3 @@
-```markdown
 # 📌 Proyecto de Automatización de Pruebas con Selenium en Python
 
 Este proyecto demuestra el uso de **Selenium WebDriver** en Python para la automatización de pruebas de aplicaciones web. Además, incluye la generación de informes detallados sobre la ejecución de las pruebas.
