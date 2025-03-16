@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** bien estructurado para tu proyecto, detallando los archivos y su funcionalidad:
-
----
-
 ```markdown
 # 📌 Proyecto de Automatización de Pruebas con Selenium en Python
 
